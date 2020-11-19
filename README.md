@@ -1,1 +1,2 @@
-# This is from the work of Dr. Norma Ortiz-Robinson.
+# Nanoparticles
+This is from our joint work with Dr. Norma Ortiz-Robinson.
